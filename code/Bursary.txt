@@ -1,0 +1,26 @@
+Bursary staff
+niyidare@gmail.com
+Bursary@4521
+
+ICT Staff
+niyidare@yahoo.com
+@attribute [Authorize(Roles = "Bursary")]
+
+Oladimeji@1981
+
+
+   <p> Return to <a href="https://localhost:7121/"> Unified Portal Home Page</a>.</p>
+        <p> Relogin on <a href="https://localhost:7121/Identity/Account/Login"> Unified Portal Login Page</a>.</p>
+
+    }
+}
+	
+
+code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
+
+20PGN02 008 Dare Olaniyi Timothy
+20PGN02/008, Dare Olaniyi Timothy
+
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error	CS0234	The type or namespace name 'Shared' does not exist in the namespace 'ACUnified' (are you missing an assembly reference?)	ACUnified.BackgroundServices	C:\Users\DOT_Oracle\Documents\GitHub\ACUnified\ACUnified.BackgroundServices\Util\CourseRegistrationGeneratorDto.cs	1	Active	
